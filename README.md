@@ -20,7 +20,7 @@ cd geant4
 wget https://gitlab.cern.ch/geant4/geant4/-/archive/v11.2.2/geant4-v11.2.2.tar.gz
 tar -xzvf geant4-v11.2.2.tar.gz
 ```
-Note: When I installed Geant4 during October 2024, the most recent version was 11.2.2. There have since (as of February 2025) been a few minor updates. I can't promise that the compilers on Expanse will work 100% from 
+Note: When I installed Geant4 during October 2024, the most recent version was 11.2.2. There have since (as of February 2025) been a few minor updates. I can't promise that the compilers on Expanse will work 100% from newer versions, so you may find it best to stick with 11.2.2.
 
 3. Load the Expanse modules from spider for C/C++ compilation. 
 ```
